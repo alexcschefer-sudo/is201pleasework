@@ -1,0 +1,27 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizeText{
+    font-style: italic;
+    color:red
+}
+
+body{
+    background-color: lightcyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border: 25px solid grey;
+    margin: 70px;
+    padding: 60px
+}
+ol, ul {
+    text-align: center;
+    list-style-position: inside;
+    padding-left: 0;
+}
